@@ -1,0 +1,11 @@
+.DS_Store
+*~
+*.bak
+*.yml.orig
+*.tar.gz
+#*.erb.orig
+rubygems/*
+tmp/*
+restrers-fanbook-pdf/*
+restrers-fanbook-md/*
+BXcoloremoji*/*

@@ -7,9 +7,9 @@
 #ビルド
 docker compose build
 #実行
-docker compose run --rm reiew review
+docker compose run --rm review review
 # コンテナのシェルに入る(終わると消えるのでDockerfileに書いてbuildをやり直す)
-docker compose run --rm reiew /bin/bash
+docker compose run --rm review /bin/bash
 ```
 
 
